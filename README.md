@@ -1,6 +1,8 @@
 ## How to Run This Code
 
-This project implements an in-memory key-value database with transaction support using the Rust programming language.
+This project implements an in-memory key-value database with transaction support using the Rust programming language. As a nod to Rust, I named the repository 'ferris-db' after Ferris, the language's unofficial mascot.
+
+![image](https://github.com/user-attachments/assets/ce4aa9e3-17b8-407a-af55-566260b092d9)
 
 ### Setup
 
